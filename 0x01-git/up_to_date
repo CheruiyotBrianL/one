@@ -1,1 +1,1 @@
-git fetch
+git fetch git add . git commit -m "This merge is required for now"  git merge
